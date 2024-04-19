@@ -1,0 +1,92 @@
+h1 {
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif;
+	font-size: 10;
+}
+
+* {
+	font-family: 'Poppins', sans-serif;
+}
+
+table {
+  margin: 0 auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: Justify;
+  font-size: 10;
+  align-items: left	;
+}
+
+.head {
+
+	background-color: #16123f;
+	color: white;
+	color: white;
+	font-size: 30px;
+	height: auto;
+}
+.navigation {
+	background-color: #16123f;
+	color: white;
+	height: 1000px;
+	width: 25%;
+	font-size: 20px;
+	text-align: left;
+	float: left;
+	padding: 40px 10px 10px 10px;
+	flex: 1;
+}
+
+.main {
+	background-color: #c7ddcc;
+	color: black;
+	height: 1000px;
+	width: 70%;
+	font-size: 22px;
+	text-align: center;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	flex:1;
+	overflow-y: auto;
+
+}
+
+.footer {
+	background-color: white;
+	clear: both;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+
+a {
+    text-decoration: none; /* Remove default underline */
+    color: white; /* Default link color */
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px 10px 20px;
+    background-color: #16123f;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%;
+}
+
+/* Button hover effect */
+.button:hover {
+    background-color: #c7ddcc;
+    color: black;
+    width: 100%;
+}
+
+.button:active {
+    background-color: #c7ddcc; /* Change background color when clicked */
+    color: #black; /* Change text color when clicked */
+}

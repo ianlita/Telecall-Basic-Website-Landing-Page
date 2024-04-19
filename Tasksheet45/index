@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang = "en-US">
+<head> 
+	<meta charset = "utf-8">
+		<link rel = "stylesheet" href = "layout.css">
+		<title> Home </title>
+</head>
+
+<body>
+
+	<div style = "width:100%">
+
+		<div class = "head">
+			<p>PERSONAL HOMEPAGE</p>
+			<br>Christian L. Losamia
+		</div>
+
+		<div class = "navigation">
+			<p><a href="index.html">Home</a> </p>
+       		<p><a href="Academics.html">Academic Information</a> </p>
+        	<p><a href="Personal.html">Personal Information</a></p>
+	        <p><a href="Family.html">Family Information</a> </p>
+    	    <p><a href="Me.html">About Me</a> </p>
+        	<p><a href="Resume.html">Resume</a> </p>
+		</div>
+
+		<div class = "main">
+			<h1>Welcome, Mr. Christian L. Losamia </h1>
+			<img src="nb.png" height="600" width="600" align="center">
+			<p> TELECALL INSTITUTE OF TECHNOLOGY INC. </p>
+			<br> BATCH 19 Year 2023
+		</div>
+
+		<div class = "footer">
+			<p> @ COPYRIGHT 2023 </p>
+			<br> All rights reserved.
+		</div>
+	</div>
+</body>
+</html>

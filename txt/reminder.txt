@@ -1,0 +1,43 @@
+Application Development Management
+Contact Center Services NC II
+Creative Web Design
+Event Management NC III
+
+home - home
+about - about
+services - courses offered
+packages - gallery
+pages - pages 
+contact - contact
+booking - registration
+pages - more
+destination - gallery
+palitan yung packages ng gallery, tanggalin yung unecessary doon
+
+
+more
+-Privacy Policy
+-Terms and Conditions
+-FAQS
+
+unlinked htmls
+destination
+booking
+travel guides
+testimonials
+
+LOGO COLOR TO 1974D3
+GREEN TEXT COLOR TO 1974D3
+ change color 86b817 to 1974D3
+
+finalize
+ok-gallery pic not clickable
+ok-gallery, put hover effect to pictures (get the gallery at home, nagalaw yon)
+-Team Info
+ok-gallery footer
+-more. put newsletter
+-404 (home-pages-404. should be more not page)
+-courses (put breadcrumbs)
+-submit buttons on more, should be directed to homepage
+-faq number 5, ano yon?
+-footer, clicking href should open new tab
